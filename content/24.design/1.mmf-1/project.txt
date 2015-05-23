@@ -1,0 +1,13 @@
+title: Object: "Mechanically Modified Fruits"
+-
+date: 2013 - Winter
+-
+content:
+Design research meant to spark discussions over the ubiquity of GMOs and their possible alternatives: a backward alternative to hi-tech fruits.
+
+-   <strong>Skills:</strong>
+Make believable prototype/props, frame an issue with minimal context
+
+-
+keywords: object, design, speculative, advertisement, fiction, research
+  

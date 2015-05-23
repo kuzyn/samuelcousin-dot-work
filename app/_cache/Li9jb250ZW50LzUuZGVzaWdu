@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Design, Samuel Cousin's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Samuel Cousin</a>
+				<em>Designer; integrator; videographer;</em>
+			</h1>
+			<h2 class="col two">
+				Selected Projects
+				<em>(2001—2009)</em>
+			</h2>
+			<p class="col six"><em>   
+  
+  
+  
+      <a href="./?/contact-cv/">Contact / CV</a>
+  
+ </em></p>
+			<hr>
+			<div id="content" class="home col eleven">
+				<p class="category col two"><em>Design</em></p>
+<ul class="project-list col seven">
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/design/alp/"><img src="./content/5.design/5.alp/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/design/alp/">Maquette: "Anti-Loitering Paint"</a></p>
+			<p><em>2013 - Winter</em></p>
+			<p><em class="background">&ndash; object, maquette, design, speculative, advertisement, fiction, research, smelly</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/design/logos/"><img src="./content/5.design/4.logos/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/design/logos/">Logos</a></p>
+			<p><em>2012-</em></p>
+			<p><em class="background">&ndash; cs6, logo, marketing, branding</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/design/bom-2/"><img src="./content/5.design/2.bom-2/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/design/bom-2/">Object: "Body Odor Marker"</a></p>
+			<p><em>2013 - Winter</em></p>
+			<p><em class="background">&ndash; object, design, speculative, advertisement, fiction, research</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/design/mmf-1/"><img src="./content/5.design/1.mmf-1/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/design/mmf-1/">Object: "Mechanically Modified Fruits"</a></p>
+			<p><em>2013 - Winter</em></p>
+			<p><em class="background">&ndash; <p>object, design, speculative, advertisement, fiction, research</p>
+</em></p>
+		</div>
+	</li>
+
+</ul>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright Samuel Cousin 2014 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 4d84477f2c7111638a38bccc3c0d7284 -->

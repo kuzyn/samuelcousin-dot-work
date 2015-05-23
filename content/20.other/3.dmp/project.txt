@@ -1,0 +1,16 @@
+title: Device: "DMP"
+-
+date: 2014 - Spring
+-
+content:
+DMP is a small device that aggregate video sent wirelessly and display them on a big screen. It challenges common ideas over public space, user passivity and surveillance. It is currently under development at <https://github.com/joshuasnowball/dmp>.
+
+-   <strong>Skills:</strong>
+Live video processing, develop a portable media server, work collaboratively on code, assemble and troubleshoot electronic components
+
+-   <strong>Tools:</strong>
+Python, bash, LAMP stack, PHP, JS, HTML, OpenWRT, Odroid, Xubuntu, Git, Open Framework, ffmpeg
+
+More details at <http://portfolio.samuelcousin.com/?/interaction/dmp/>
+-
+keywords: code, hardware, device, video, linux, wifi, disruptive

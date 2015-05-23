@@ -1,0 +1,5 @@
+name: Samuel Cousin
+-
+profession: Designer; integrator;
+-
+email: <hello@samuelcousin.com>

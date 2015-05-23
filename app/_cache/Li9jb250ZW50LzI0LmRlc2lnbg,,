@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Design, Samuel Cousin's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./" style="border-bottom:0"><img src="../public/images/150x150.jpg"></a>
+				<br>
+				<a href="./" style="font-size: large; border-bottom: 0;">Samuel Cousin</a>
+				<br>
+				<em>  
+  
+  
+  
+  
+  
+      <a href="./?/contact-cv/">Contact / CV</a>
+  
+</em>
+			</h1>
+			<hr>
+			<div id="content" class="home col eleven">
+				<p class="category col two"><em>Design</em></p>
+<ul class="project-list col seven">
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/design/bom-2/"><img src="./content/24.design/2.bom-2/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/design/bom-2/">Object: "Body Odor Marker"</a></p>
+			<p><em>2013 - Winter</em></p>
+			<p><em class="background">&ndash; object, design, speculative, advertisement, fiction, research</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/design/mmf-1/"><img src="./content/24.design/1.mmf-1/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/design/mmf-1/">Object: "Mechanically Modified Fruits"</a></p>
+			<p><em>2013 - Winter</em></p>
+			<p><em class="background">&ndash; <p>object, design, speculative, advertisement, fiction, research</p>
+</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/design/alp/"><img src="./content/24.design/1.alp/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/design/alp/">Maquette: "Anti-Loitering Paint"</a></p>
+			<p><em>2013 - Winter</em></p>
+			<p><em class="background">&ndash; object, maquette, design, speculative, advertisement, fiction, research, smelly</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col two">
+			<a href="./?/design/logos/"><img src="./content/24.design/0.logos/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/design/logos/">Logos</a></p>
+			<p><em>2012 -</em></p>
+			<p><em class="background">&ndash; cs6, logo, marketing, branding</em></p>
+		</div>
+	</li>
+
+</ul>
+			</div>
+			<hr>
+			<p id="footer" class="col six"><em>&copy; Copyright Samuel Cousin 2014 </em></p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 13a449b49974e420bd9d709a1a7989aa -->

@@ -1,0 +1,165 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Other Websites, Samuel Cousin's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+		<link rel="shortcut icon" href="../public/images/favicon.ico">		
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col seven">
+				<a href="./" style="border-bottom:0"><img src="../public/images/150x150.jpg"></a>
+				<br>
+				<a href="./" style="font-size: large; border-bottom: 0;">Samuel Cousin</a>
+				<br>
+				<em>  
+  
+  
+  
+  
+  
+      <a href="./?/contact-cv/">Contact / CV</a>
+  
+</em>
+			</h1>
+			<hr>
+			<div id="content" class="col seven">
+				<div id="media">
+      	<div class="image">
+		<img src="./content/23.web/0.websites/1000.jpg" alt="Other Websites" width="540" height="345">
+    
+	</div>
+	<div class="image">
+		<img src="./content/23.web/0.websites/900.top.jpg" alt="Other Websites" width="540" height="345">
+    
+	</div>
+	<div class="image">
+		<img src="./content/23.web/0.websites/575.top.jpg" alt="Other Websites" width="540" height="345">
+    
+	</div>
+	<div class="image">
+		<img src="./content/23.web/0.websites/560.top.jpg" alt="Other Websites" width="540" height="345">
+    
+	</div>
+	<div class="image">
+		<img src="./content/23.web/0.websites/555.top.jpg" alt="Other Websites" width="540" height="345">
+    
+	</div>
+	<div class="image">
+		<img src="./content/23.web/0.websites/550.top.jpg" alt="Other Websites" width="540" height="345">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+				
+<ul class="project-list col seven">
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/web/swd/"><img src="./content/23.web/6.swd/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/web/swd/">Web App: "Some Weird Dream"</a></p>
+			<p><em>2012 - Winter</em></p>
+			<p><em class="background">&ndash; code, scan,cs6, html, js, high-res, mapping, memories, narrative, ux, ui</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/web/retention/"><img src="./content/23.web/4.retention/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/web/retention/">Web App: "■■■■■■■.ws / Retention"</a></p>
+			<p><em>2014 - Spring</em></p>
+			<p><em class="background">&ndash; website, code, js, html, php, css, ui, ux</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/web/cod-holidays/"><img src="./content/23.web/2.cod-holidays/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/web/cod-holidays/">Web App: "Cod Holidays"</a></p>
+			<p><em>2013 - Spring</em></p>
+			<p><em class="background">&ndash; code, cs6,huge, web-page, html, js, high-res, aggregation, knowledge mapping, memories</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/web/lapin/"><img src="./content/23.web/1.lapin/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/web/lapin/">Web App: "Lapin"</a></p>
+			<p><em>2012 - Autumn</em></p>
+			<p><em class="background">&ndash; code, cs6, huge, web-page, html, js, high-res, aggregation, knowledge mapping</em></p>
+		</div>
+	</li>
+
+</ul>
+			</div>
+			<div class="description col three">
+				<p><a href="./">Other Websites</a></p>
+				<p><em>2012 -</em></p>
+				<p><em class="background">website, code, js, html, php, css, ui, ux</em></p>
+				<p>On-going collection of websites.
+<br><br><br>
+<strong><a href="http://gdgaviation.com">G.D.G. Aviation Inc.</a></strong></p>
+
+<ul>
+<li><u>Tasks</u>:
+Install Wordpress, customize CSS, generate content, translate content</li>
+</ul>
+
+<p><strong><a href="http://artsyfact.net">artsyfact.net</a></strong></p>
+
+<ul>
+<li><u>Tasks</u>:
+HTML, CSS, JS, generate content, translate content</li>
+</ul>
+
+<p><strong><a href="http://murders.spellcaster.cc">Murders</a> </strong></p>
+
+<ul>
+<li><u>Tasks</u>:
+Artistic direction, illustration, UI/UX</li>
+</ul>
+
+<p><strong><a href="http://antiflash.ca">Antiflash Games</a></strong></p>
+
+<ul>
+<li><u>Tasks</u>:
+HTML, CSS, JS, generate content</li>
+</ul>
+
+<p><strong><a href="http://poemm.net">PoEMM</a> </strong></p>
+
+<ul>
+<li><u>Tasks</u>:
+HTML, CSS, JS, generate content, branding, UI/UX, full screen background video</li>
+</ul>
+
+<p><strong><a href="http://admod.info">Ad.MOD</a> </strong></p>
+
+<ul>
+<li><u>Tasks</u>:
+CMS (Stacey), HTML, CSS, JS, generate content, branding, UI/UX</li>
+</ul>
+
+				<br><br>
+				<em><p><a href="./">&uarr; HOME</a></p></em>
+			</div>
+			<hr>
+			<p id="footer" class="col six"><em>&copy; Copyright Samuel Cousin 2014 </em></p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 13a449b49974e420bd9d709a1a7989aa -->

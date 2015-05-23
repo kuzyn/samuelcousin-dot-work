@@ -1,0 +1,11 @@
+title: 3D Model : "Phenomenologists’ Apple"
+-
+date: 2013 - Winter
+-
+content:
+A thought experiment designed to question perception of colours and biased disposition.
+
+-   <strong>Tools:</strong>
+Rhino, Flamingo
+-
+keywords: virtual, food, design, thought-experiment

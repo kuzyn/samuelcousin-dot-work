@@ -1,0 +1,17 @@
+title: Online Game: "A Tough Sell"
+-
+date: 2014 - Summer
+-
+content:
+In "A Tough Sell", you play as the kingdom's Queen in the Snow White tale. Your goal is to convince Snow White to eat the poisonous apple, using only your intelligence and English skills. This project is a [Lablablab][1] initiative.
+
+-   <strong>Skills:</strong>
+Maintain properly versioned repositories, participate in on-line presence, sound design, elaborate and implement NLP strategies, game design, write dialogues, 
+
+-   <strong>Tools:</strong>
+Unity 3D, Audacity, Audition CS6, Chatscript, JS, HTML, regex, Git
+
+More to see at <http://www.lablablab.net/games/a-tough-sell/>
+[1]: http://www.lablablab.net/
+-
+keywords: unity, 2d, sounds, creepy, game-design, code, nlp, ux, fruits-are-good

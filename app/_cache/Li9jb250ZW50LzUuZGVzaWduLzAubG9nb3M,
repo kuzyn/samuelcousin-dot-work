@@ -1,0 +1,119 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Logos, Samuel Cousin's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+		<link rel="shortcut icon" href="../public/images/favicon.ico">		
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col seven">
+				<a href="./" style="border-bottom:0"><img src="../public/images/150x150.jpg"></a>
+				<br>
+				<a href="./" style="font-size: large; border-bottom: 0;">Samuel Cousin</a>
+				<br>
+				<em>  
+  
+  
+  
+      <a href="./?/contact-cv/">Contact / CV</a>
+  
+</em>
+			</h1>
+			<hr>
+			<div id="content" class="col seven">
+				<div id="media">
+      	<div class="image">
+		<img src="./content/5.design/0.logos/5.antiflash.top.jpg" alt="Logos" width="540" height="363">
+    
+	</div>
+	<div class="image">
+		<img src="./content/5.design/0.logos/4.af.top.jpg" alt="Logos" width="540" height="363">
+    
+	</div>
+	<div class="image">
+		<img src="./content/5.design/0.logos/3.pnp.top.jpg" alt="Logos" width="540" height="363">
+    
+	</div>
+	<div class="image">
+		<img src="./content/5.design/0.logos/2.augusta.top.jpg" alt="Logos" width="540" height="363">
+    
+	</div>
+	<div class="image">
+		<img src="./content/5.design/0.logos/1.aflc.top.jpg" alt="Logos" width="540" height="363">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+				
+<ul class="project-list col seven">
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/design/bom-2/"><img src="./content/5.design/2.bom-2/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/design/bom-2/">Object: "Body Odor Marker"</a></p>
+			<p><em>2013 - Winter</em></p>
+			<p><em class="background">&ndash; object, design, speculative, advertisement, fiction, research</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/design/mmf-1/"><img src="./content/5.design/1.mmf-1/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/design/mmf-1/">Object: "Mechanically Modified Fruits"</a></p>
+			<p><em>2013 - Winter</em></p>
+			<p><em class="background">&ndash; <p>object, design, speculative, advertisement, fiction, research</p>
+</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/design/alp/"><img src="./content/5.design/1.alp/thumb.jpg" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/design/alp/">Maquette: "Anti-Loitering Paint"</a></p>
+			<p><em>2013 - Winter</em></p>
+			<p><em class="background">&ndash; object, maquette, design, speculative, advertisement, fiction, research, smelly</em></p>
+		</div>
+	</li>
+
+</ul>
+			</div>
+			<div class="description col three">
+				<p><a href="./">Logos</a></p>
+				<p><em>2012 -</em></p>
+				<p><em class="background">cs6, logo, marketing, branding</em></p>
+				<p>On-going collection of logos.</p>
+
+<ul>
+<li><p><strong>Skills:</strong>
+Brand identity, efficient integration, iterate and present progress, integrate clients' input</p></li>
+<li><p><strong>Tools:</strong>
+Photoshop CS6, Illustrator CS6, Wacom Tablet, Blender 3D, Adobe Acrobat Pro</p></li>
+</ul>
+
+				<br>
+				<p>  <p><a href="./?/design/alp/">&larr; Maquette: "Anti-Loitering Paint"</a></p>
+<p>
+				<p>  <p><a href="./?/design/bom-2/">&rarr; Object: "Body Odor Marker"</a></p>
+<p>
+				<p><a href="./">HOME</a></p>
+			</div>
+			<hr>
+			<p id="footer" class="col six"><em>&copy; Copyright Samuel Cousin 2014 </em></p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 01d89c2981baadf9f90bb1dc6fbc9160 -->

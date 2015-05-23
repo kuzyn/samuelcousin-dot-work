@@ -1,0 +1,16 @@
+title: Web App: "Some Weird Dream"
+-
+date: 2012 - Winter
+-
+content:
+Digital narrative/poem app. Meant as an experiment on remembrance and tactility.
+
+-   <strong>Skills:</strong>
+Responsive website, full-size and continuous image slide-show, fluid animation and transitions, manage transparent and constant loading of high-resolution scans
+
+-   <strong>Tools:</strong>
+Portable scanner, Photoshop CS6, HTML, Javascript, PHP, ImageMagick, bash
+
+Can be viewed at <http://someweirddream.samuelcousin.com/>
+-
+keywords: code, scan,cs6, html, js, high-res, mapping, memories, narrative, ux, ui

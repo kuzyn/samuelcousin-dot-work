@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Other Websites, Samuel Cousin's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+		<link rel="shortcut icon" href="../public/images/favicon.ico">		
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col seven">
+				<a href="./" style="border-bottom:0"><img src="../public/images/150x150.jpg"></a>
+				<br>
+				<a href="./" style="font-size: large; border-bottom: 0;">Samuel Cousin</a>
+				<br>
+				<em>  
+  
+  
+  
+      <a href="./?/contact-cv/">Contact / CV</a>
+  
+</em>
+			</h1>
+			<hr>
+			<div id="content" class="col seven">
+				<div id="media">
+      	<div class="image">
+		<img src="./content/4.web/2.websites/1000.jpg" alt="Other Websites" width="540" height="345">
+    
+	</div>
+	<div class="image">
+		<img src="./content/4.web/2.websites/900.top.jpg" alt="Other Websites" width="540" height="345">
+    
+	</div>
+	<div class="image">
+		<img src="./content/4.web/2.websites/575.top.jpg" alt="Other Websites" width="540" height="345">
+    
+	</div>
+	<div class="image">
+		<img src="./content/4.web/2.websites/560.top.jpg" alt="Other Websites" width="540" height="345">
+    
+	</div>
+	<div class="image">
+		<img src="./content/4.web/2.websites/555.top.jpg" alt="Other Websites" width="540" height="345">
+    
+	</div>
+	<div class="image">
+		<img src="./content/4.web/2.websites/550.top.jpg" alt="Other Websites" width="540" height="345">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<div class="description col three">
+				<p><a href="./">Other Websites</a></p>
+				<p><em>@date</em></p>
+				<p><em class="background">website, code, js, html, php, css, ui, ux</em></p>
+				<p>On-going collection of websites.
+<br><br><br>
+<strong><a href="http://gdgaviation.com">G.D.G. Aviation Inc.</a></strong></p>
+
+<ul>
+<li><u>Tasks</u>:
+Install Wordpress, customize CSS, generate content, translate content</li>
+</ul>
+
+<p><strong><a href="http://artsyfact.net">artsyfact.net</a></strong></p>
+
+<ul>
+<li><u>Tasks</u>:
+HTML, CSS, JS, generate content, translate content</li>
+</ul>
+
+<p><strong><a href="http://murders.spellcaster.cc">Murders</a> </strong></p>
+
+<ul>
+<li><u>Tasks</u>:
+Artistic direction, illustration, UI/UX</li>
+</ul>
+
+<p><strong><a href="http://antiflash.ca">Antiflash Games</a></strong></p>
+
+<ul>
+<li><u>Tasks</u>:
+HTML, CSS, JS, generate content</li>
+</ul>
+
+<p><strong><a href="http://poemm.net">PoEMM</a> </strong></p>
+
+<ul>
+<li><u>Tasks</u>:
+HTML, CSS, JS, generate content, branding, UI/UX</li>
+</ul>
+
+<p><strong><a href="http://admod.info">Ad.MOD</a> </strong></p>
+
+<ul>
+<li><u>Tasks</u>:
+CMS (Stacey), HTML, CSS, JS, generate content, branding, UI/UX</li>
+</ul>
+
+				<br>
+				<p>  <p><a href="./?/web/lapin/">&larr; Web App: "Lapin"</a></p>
+<p>
+				<p>  <p><a href="./?/web/cod-holidays/">&rarr; Web App: "Cod Holidays"</a></p>
+<p>
+			</div>
+			<hr>
+			<p id="footer" class="col six"><em>&copy; Copyright Samuel Cousin 2014 </em></p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): c15f2a7ec20b3de45d0ce7b8e94581cd -->

@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Online Game: "A Tough Sell", Samuel Cousin's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+		<link rel="shortcut icon" href="../public/images/favicon.ico">		
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col seven">
+				<a href="./" style="border-bottom:0"><img src="../public/images/150x150.jpg"></a>
+				<br>
+				<a href="./" style="font-size: large; border-bottom: 0;">Samuel Cousin</a>
+				<br>
+				<em>  
+  
+  
+  
+  
+  
+      <a href="./?/contact-cv/">Contact / CV</a>
+  
+</em>
+			</h1>
+			<hr>
+			<div id="content" class="col seven">
+				<div id="media">
+      	<div class="image">
+		<img src="./content/22.games/9.bn/Comp 1_00060.jpg" alt="Online Game: "A Tough Sell"" width="480" height="300">
+    
+	</div>
+	<div class="image">
+		<img src="./content/22.games/9.bn/Comp 1_00041.jpg" alt="Online Game: "A Tough Sell"" width="480" height="300">
+    
+	</div>
+	<div class="image">
+		<img src="./content/22.games/9.bn/Comp 1_00020.jpg" alt="Online Game: "A Tough Sell"" width="480" height="300">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+				
+<ul class="project-list col seven">
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/games/sp/"><img src="./content/22.games/3.sp/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/games/sp/">Online Game: "SimProphet"</a></p>
+			<p><em>2014 - Summer</em></p>
+			<p><em class="background">&ndash; religion, unity, 2d, sounds, game-design, code, nlp, ux, ui</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/games/pnp/"><img src="./content/22.games/1.pnp/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/games/pnp/">Prototype: "Pride and Pugilism"</a></p>
+			<p><em>2014 - Spring</em></p>
+			<p><em class="background">&ndash; game, moustache, unity, 3d-model, sounds, game-design</em></p>
+		</div>
+	</li>
+
+</ul>
+			</div>
+			<div class="description col three">
+				<p><a href="./">Online Game: "A Tough Sell"</a></p>
+				<p><em>2014 - Summer</em></p>
+				<p><em class="background">unity, 2d, sounds, creepy, game-design, code, nlp, ux, fruits-are-good</em></p>
+				<p>In "A Tough Sell", you play as the kingdom's Queen in the Snow White tale. Your goal is to convince Snow White to eat the poisonous apple, using only your intelligence and English skills. This project is a <a href="http://www.lablablab.net/">Lablablab</a> initiative.</p>
+
+<ul>
+<li><p><strong>Skills:</strong>
+Maintain properly versioned repositories, participate in on-line presence, sound design, elaborate and implement NLP strategies, game design, write dialogues,</p></li>
+<li><p><strong>Tools:</strong>
+Unity 3D, Audacity, Audition CS6, Chatscript, JS, HTML, regex, Git</p></li>
+</ul>
+
+<p>More to see at <a href="http://www.lablablab.net/games/a-tough-sell/">http://www.lablablab.net/games/a-tough-sell/</a></p>
+
+				<br><br>
+				<em><p><a href="./">&uarr; HOME</a></p></em>
+			</div>
+			<hr>
+			<p id="footer" class="col six"><em>&copy; Copyright Samuel Cousin 2014 </em></p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 13a449b49974e420bd9d709a1a7989aa -->

@@ -1,0 +1,11 @@
+title: 3D Model: "Spikes"
+-
+date: 2012 - Spring
+-
+content:
+CAD concept of a glass table.
+
+-   <strong>Tools:</strong>
+Rhino, Flamingo
+-
+keywords: 3d, concept, rhino, research, light, virtual

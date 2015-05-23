@@ -1,0 +1,11 @@
+title: 3D Model: "Horselegs"
+-
+date: 2012 - Spring
+-
+content: 
+CAD concepts of an organic sculpture model.
+
+-   <strong>Tools:</strong>
+Rhino, Flamingo
+-
+keywords: rhino, 3d, concept, research, dark, virtual

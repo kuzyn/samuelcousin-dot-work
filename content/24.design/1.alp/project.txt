@@ -1,0 +1,12 @@
+title: Maquette: "Anti-Loitering Paint"
+-
+date: 2013 - Winter
+-
+content:
+Design research meant to address the use of devices used to curb loitering in cities (e.g., spikes on benches, uneven surfaces): a durian-based paint that can thwart potential loiterers.
+
+-   <strong>Skills:</strong>
+Make a believable maquette, frame an issue with minimal context, imagine and iterate on fictional products and usage
+
+-
+keywords: object, maquette, design, speculative, advertisement, fiction, research, smelly

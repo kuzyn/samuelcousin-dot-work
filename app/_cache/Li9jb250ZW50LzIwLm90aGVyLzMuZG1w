@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Device: "DMP", Samuel Cousin's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+		<link rel="shortcut icon" href="../public/images/favicon.ico">		
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col seven">
+				<a href="./" style="border-bottom:0"><img src="../public/images/150x150.jpg"></a>
+				<br>
+				<a href="./" style="font-size: large; border-bottom: 0;">Samuel Cousin</a>
+				<br>
+				<em>  
+  
+  
+  
+  
+  
+      <a href="./?/contact-cv/">Contact / CV</a>
+  
+</em>
+			</h1>
+			<hr>
+			<div id="content" class="col seven">
+				<div id="media">
+      	<div class="image">
+		<img src="./content/20.other/3.dmp/dmp4.jpg" alt="Device: "DMP"" width="540" height="357">
+    
+	</div>
+	<div class="image">
+		<img src="./content/20.other/3.dmp/dmp3.jpg" alt="Device: "DMP"" width="540" height="357">
+    
+	</div>
+	<div class="image">
+		<img src="./content/20.other/3.dmp/dmp1.jpg" alt="Device: "DMP"" width="540" height="357">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+				
+<ul class="project-list col seven">
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/other/afp-6/"><img src="./content/20.other/6.afp-6/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/other/afp-6/">3D Model : "Phenomenologists’ Apple"</a></p>
+			<p><em>2013 - Winter</em></p>
+			<p><em class="background">&ndash; virtual, food, design, thought-experiment</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/other/3d/"><img src="./content/20.other/3.3d/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/other/3d/">3D Model: "Horselegs"</a></p>
+			<p><em>2012 - Spring</em></p>
+			<p><em class="background">&ndash; rhino, 3d, concept, research, dark, virtual</em></p>
+		</div>
+	</li>
+
+</ul>
+			</div>
+			<div class="description col three">
+				<p><a href="./">Device: "DMP"</a></p>
+				<p><em>2014 - Spring</em></p>
+				<p><em class="background">code, hardware, device, video, linux, wifi, disruptive</em></p>
+				<p>DMP is a small device that aggregate video sent wirelessly and display them on a big screen. It challenges common ideas over public space, user passivity and surveillance. It is currently under development at <a href="https://github.com/joshuasnowball/dmp">https://github.com/joshuasnowball/dmp</a>.</p>
+
+<ul>
+<li><p><strong>Skills:</strong>
+Live video processing, develop a portable media server, work collaboratively on code, assemble and troubleshoot electronic components</p></li>
+<li><p><strong>Tools:</strong>
+Python, bash, LAMP stack, PHP, JS, HTML, OpenWRT, Odroid, Xubuntu, Git, Open Framework, ffmpeg</p></li>
+</ul>
+
+<p>More details at <a href="http://portfolio.samuelcousin.com/?/interaction/dmp/">http://portfolio.samuelcousin.com/?/interaction/dmp/</a></p>
+
+				<br><br>
+				<em><p><a href="./">&uarr; HOME</a></p></em>
+			</div>
+			<hr>
+			<p id="footer" class="col six"><em>&copy; Copyright Samuel Cousin 2014 </em></p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 13a449b49974e420bd9d709a1a7989aa -->

@@ -1,0 +1,13 @@
+title: Book : "Fruits de Rêves"
+-
+date: 2013 - Spring
+-
+content:
+Series of photographs produced in book form. 9" x 13", 19 pages. 
+
+-   <strong>Skills:</strong>
+Organize the photo shoot, set up the lights, scan the negatives for hi-resolution printing, print proofing, design & layout
+-   <strong>Tools:</strong>
+Studio lights (studio flashes, mandarines, flood, lightbox), Photoshop CS6, Bronica ETRSi, Nikon Coolscan, Canon Prograf, Sekonic L-758
+-
+keywords: studio, food, print, book, photo, cs6, design

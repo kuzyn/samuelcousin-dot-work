@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Maquette: "Anti-Loitering Paint", Samuel Cousin's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+		<link rel="shortcut icon" href="../public/images/favicon.ico">		
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col seven">
+				<a href="./" style="border-bottom:0"><img src="../public/images/150x150.jpg"></a>
+				<br>
+				<a href="./" style="font-size: large; border-bottom: 0;">Samuel Cousin</a>
+				<br>
+				<em>  
+  
+  
+  
+      <a href="./?/contact-cv/">Contact / CV</a>
+  
+</em>
+			</h1>
+			<hr>
+			<div id="content" class="col seven">
+				<div id="media">
+      	<div class="image">
+		<img src="./content/5.design/5.alp-5/sp44444.jpg" alt="Maquette: "Anti-Loitering Paint"" width="540" height="415">
+    
+	</div>
+	<div class="image">
+		<img src="./content/5.design/5.alp-5/sp4444.jpg" alt="Maquette: "Anti-Loitering Paint"" width="540" height="507">
+    
+	</div>
+	<div class="image">
+		<img src="./content/5.design/5.alp-5/sp444.jpg" alt="Maquette: "Anti-Loitering Paint"" width="540" height="460">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<div class="description col three">
+				<p><a href="./">Maquette: "Anti-Loitering Paint"</a></p>
+				<p><em>2013 - Winter</em></p>
+				<p><em class="background">&ndash; object, maquette, design, speculative, advertisement, fiction, research, smelly</em></p>
+				<p>Design research meant to address the use of devices used to curb loitering in cities (e.g., spikes on benches, uneven surfaces): a durian-based paint that can thwart potential loiterers.</p>
+
+<ul>
+<li><p><strong>Skills:</strong>
+Make a believable maquette, frame an issue with minimal context, imagine and iterate on fictional products and usage</p></li>
+<li><p><strong>Tools:</strong>
+Paint, woodshop</p></li>
+</ul>
+
+				<br>
+			<p>  <p><a href="./?/design/mmf-1/">&larr; Object: "Mechanically Modified Fruits"</a></p>
+</p>
+			<p>  <p><a href="./?/design/logos/">&rarr; Logos</a></p>
+</p>
+			</div>
+			<hr>
+			<p id="footer" class="col six"><em>&copy; Copyright Samuel Cousin 2014 </em></p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): cefb77aa766406b8f438b0c719d26dd2 -->

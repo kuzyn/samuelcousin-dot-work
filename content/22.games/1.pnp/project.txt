@@ -1,0 +1,16 @@
+title: Prototype: "Pride and Pugilism"
+-
+date: 2014 - Spring
+-
+content:
+Pride and Pugilism is a game set in Victorian time, where huge burly men take part in manly fisticuffs. It was initiated with Georges Ashwath and Olivier Albaracin.
+
+-   <strong>Skills:</strong>
+Sound design, 3D modelling, game design, branding, logo design
+
+-   <strong>Tools:</strong>
+Unity 3D, Blender, Audacity, Audition CS6
+
+More to see at <http://www.youtube.com/watch?v=Rars6rdk0Vc>
+-
+keywords: game, moustache, unity, 3d-model, sounds, game-design

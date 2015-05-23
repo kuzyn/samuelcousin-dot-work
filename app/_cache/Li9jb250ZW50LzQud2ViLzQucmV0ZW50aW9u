@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Web App: "■■■■■■■.ws / Retention", Samuel Cousin's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+		<link rel="shortcut icon" href="../public/images/favicon.ico">		
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col seven">
+				<a href="./" style="border-bottom:0"><img src="../public/images/150x150.jpg"></a>
+				<br>
+				<a href="./" style="font-size: large; border-bottom: 0;">Samuel Cousin</a>
+				<br>
+				<em>  
+  
+  
+  
+      <a href="./?/contact-cv/">Contact / CV</a>
+  
+</em>
+			</h1>
+			<hr>
+			<div id="content" class="col seven">
+				<div id="media">
+      	<div class="image">
+		<img src="./content/4.web/4.retention/ret9.jpg" alt="Web App: "■■■■■■■.ws / Retention"" width="540" height="357">
+    
+	</div>
+	<div class="image">
+		<img src="./content/4.web/4.retention/ret6.jpg" alt="Web App: "■■■■■■■.ws / Retention"" width="540" height="357">
+    
+	</div>
+	<div class="image">
+		<img src="./content/4.web/4.retention/ret5.jpg" alt="Web App: "■■■■■■■.ws / Retention"" width="540" height="357">
+    
+	</div>
+	<div class="image">
+		<img src="./content/4.web/4.retention/ret2.jpg" alt="Web App: "■■■■■■■.ws / Retention"" width="540" height="357">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<div class="description col three">
+				<p><a href="./">Web App: "■■■■■■■.ws / Retention"</a></p>
+				<p><em>2014 - Spring</em></p>
+				<p><em class="background">website, code, js, html, php, css, ui, ux</em></p>
+				<p>■■■■■■■.ws is a web app that makes is possible to show a year's worth of text messages, and easily navigate through them. It was build as a personal experiment, but the sources will likely make their way to Git.</p>
+
+<ul>
+<li><p><strong>Skills:</strong>
+Responsive website, full-size and continuous navigation, fluid animation and transitions, manage and retrieve thousands of database/html objects, imagine a workflow to display so much data</p></li>
+<li><p><strong>Tools:</strong>
+PHP, HTML5 &amp; CSS3 transitions, MySQL, some hacking</p></li>
+</ul>
+
+<p>More details at <a href="http://portfolio.samuelcousin.com/?/interaction/retention/">http://portfolio.samuelcousin.com/?/interaction/retention/</a></p>
+
+				<br>
+				<p>  <p><a href="./?/web/swd/">&larr; Web App: "Some Weird Dream"</a></p>
+<p>
+				<p>  <p><a href="./?/web/cod-holidays/">&rarr; Web App: "Cod Holidays"</a></p>
+<p>
+			</div>
+			<hr>
+			<p id="footer" class="col six"><em>&copy; Copyright Samuel Cousin 2014 </em></p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 93b0a983b5ad1457a5713b16b9460e12 -->

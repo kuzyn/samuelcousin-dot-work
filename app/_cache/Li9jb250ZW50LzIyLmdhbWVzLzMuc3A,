@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Online Game: "SimProphet", Samuel Cousin's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+		<link rel="shortcut icon" href="../public/images/favicon.ico">		
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col seven">
+				<a href="./" style="border-bottom:0"><img src="../public/images/150x150.jpg"></a>
+				<br>
+				<a href="./" style="font-size: large; border-bottom: 0;">Samuel Cousin</a>
+				<br>
+				<em>  
+  
+  
+  
+  
+  
+      <a href="./?/contact-cv/">Contact / CV</a>
+  
+</em>
+			</h1>
+			<hr>
+			<div id="content" class="col seven">
+				<div id="media">
+      	<div class="image">
+		<img src="./content/22.games/3.sp/Ambar_00112.jpg" alt="Online Game: "SimProphet"" width="480" height="300">
+    
+	</div>
+	<div class="image">
+		<img src="./content/22.games/3.sp/Ambar_00095.jpg" alt="Online Game: "SimProphet"" width="480" height="300">
+    
+	</div>
+	<div class="image">
+		<img src="./content/22.games/3.sp/Ambar_00043.jpg" alt="Online Game: "SimProphet"" width="480" height="300">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+				
+<ul class="project-list col seven">
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/games/bn/"><img src="./content/22.games/9.bn/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/games/bn/">Online Game: "A Tough Sell"</a></p>
+			<p><em>2014 - Summer</em></p>
+			<p><em class="background">&ndash; unity, 2d, sounds, creepy, game-design, code, nlp, ux, fruits-are-good</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/games/pnp/"><img src="./content/22.games/1.pnp/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/games/pnp/">Prototype: "Pride and Pugilism"</a></p>
+			<p><em>2014 - Spring</em></p>
+			<p><em class="background">&ndash; game, moustache, unity, 3d-model, sounds, game-design</em></p>
+		</div>
+	</li>
+
+</ul>
+			</div>
+			<div class="description col three">
+				<p><a href="./">Online Game: "SimProphet"</a></p>
+				<p><em>2014 - Summer</em></p>
+				<p><em class="background">religion, unity, 2d, sounds, game-design, code, nlp, ux, ui</em></p>
+				<p>SimProphet place you in the role of a prophet, sent to "illuminate" a shepherd and his herd. Using your wit and english, you need to convert him to your faith. This project is a <a href="http://www.lablablab.net/">Lablablab</a> initiative.</p>
+
+<ul>
+<li><p><strong>Skills:</strong>
+Elaborate and implement NLP strategies, game design, write dialogues, maintain properly versioned repositories, participate in on-line presence, sound design</p></li>
+<li><p><strong>Tools:</strong>
+Unity 3D, Audacity, Audition CS6, Chatscript, JS, HTML, regex, Git</p></li>
+</ul>
+
+<p>More to see at <a href="http://www.lablablab.net/games/sim-prophet/">http://www.lablablab.net/games/sim-prophet/</a></p>
+
+				<br><br>
+				<em><p><a href="./">&uarr; HOME</a></p></em>
+			</div>
+			<hr>
+			<p id="footer" class="col six"><em>&copy; Copyright Samuel Cousin 2014 </em></p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 13a449b49974e420bd9d709a1a7989aa -->

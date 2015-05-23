@@ -1,0 +1,45 @@
+title: Other Websites
+-
+date: 2012 -
+-
+content:
+On-going collection of websites.
+<br><br><br>
+<strong>[G.D.G. Aviation Inc.][1]</strong>
+
+-   <u>Tasks</u>:
+Install Wordpress, customize CSS, generate content, translate content
+
+<strong>[artsyfact.net][2]</strong>
+
+-   <u>Tasks</u>:
+HTML, CSS, JS, generate content, translate content
+
+<strong>[Murders][3] </strong>
+
+-   <u>Tasks</u>:
+Artistic direction, illustration, UI/UX
+
+<strong>[Antiflash Games][4]</strong>
+
+-   <u>Tasks</u>:
+HTML, CSS, JS, generate content
+
+<strong>[PoEMM][5] </strong>
+
+-   <u>Tasks</u>:
+HTML, CSS, JS, generate content, branding, UI/UX, full screen background video
+
+<strong>[Ad.MOD][6] </strong>
+
+-   <u>Tasks</u>:
+CMS (Stacey), HTML, CSS, JS, generate content, branding, UI/UX
+
+[1]:	http://gdgaviation.com
+[2]:	http://artsyfact.net
+[3]: 	http://murders.spellcaster.cc
+[4]:	http://antiflash.ca
+[5]:	http://poemm.net
+[6]:	http://admod.info
+-
+keywords: website, code, js, html, php, css, ui, ux

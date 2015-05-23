@@ -1,0 +1,16 @@
+title: Web App: "Cod Holidays"
+-
+date: 2013 - Spring
+-
+content:
+Gigantic, scrollable and zoomable digital collage. Assembled from 36 analogue photographs.
+
+-   <strong>Skills:</strong>
+Make the collage available online despite its size, develop a workflow able to deal with humongous files (30,000px*17,000px), process the negative and scan them, assemble the image without loosing definition
+
+-   <strong>Tools:</strong>
+Portable scanner, Photoshop CS6, Google Map API, HTML, Javascript, ImageMagick, bash, ink, paper
+
+Can be viewed at <http://portfolio.samuelcousin.com/?/illustration/cod-holidays/>
+-
+keywords: code, cs6,huge, web-page, html, js, high-res, aggregation, knowledge mapping, memories

@@ -1,0 +1,104 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>3D Model: "Horselegs", Samuel Cousin's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+		<link rel="shortcut icon" href="../public/images/favicon.ico">		
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col seven">
+				<a href="./" style="border-bottom:0"><img src="../public/images/150x150.jpg"></a>
+				<br>
+				<a href="./" style="font-size: large; border-bottom: 0;">Samuel Cousin</a>
+				<br>
+				<em>  
+  
+  
+  
+  
+  
+      <a href="./?/contact-cv/">Contact / CV</a>
+  
+</em>
+			</h1>
+			<hr>
+			<div id="content" class="col seven">
+				<div id="media">
+      	<div class="image">
+		<img src="./content/20.other/3.3d/5.jpg" alt="3D Model: "Horselegs"" width="540" height="540">
+    
+	</div>
+	<div class="image">
+		<img src="./content/20.other/3.3d/4.jpg" alt="3D Model: "Horselegs"" width="540" height="540">
+    
+	</div>
+	<div class="image">
+		<img src="./content/20.other/3.3d/3.jpg" alt="3D Model: "Horselegs"" width="540" height="540">
+    
+	</div>
+	<div class="image">
+		<img src="./content/20.other/3.3d/2.jpg" alt="3D Model: "Horselegs"" width="540" height="540">
+    
+	</div>
+	<div class="image">
+		<img src="./content/20.other/3.3d/1.jpg" alt="3D Model: "Horselegs"" width="540" height="540">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+				
+<ul class="project-list col seven">
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/other/afp-6/"><img src="./content/20.other/6.afp-6/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/other/afp-6/">3D Model : "Phenomenologists’ Apple"</a></p>
+			<p><em>2013 - Winter</em></p>
+			<p><em class="background">&ndash; virtual, food, design, thought-experiment</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/other/dmp/"><img src="./content/20.other/3.dmp/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/other/dmp/">Device: "DMP"</a></p>
+			<p><em>2014 - Spring</em></p>
+			<p><em class="background">&ndash; code, hardware, device, video, linux, wifi, disruptive</em></p>
+		</div>
+	</li>
+
+</ul>
+			</div>
+			<div class="description col three">
+				<p><a href="./">3D Model: "Horselegs"</a></p>
+				<p><em>2012 - Spring</em></p>
+				<p><em class="background">rhino, 3d, concept, research, dark, virtual</em></p>
+				<p>CAD concepts of an organic sculpture model.</p>
+
+<ul>
+<li><strong>Tools:</strong>
+Rhino, Flamingo</li>
+</ul>
+
+				<br><br>
+				<em><p><a href="./">&uarr; HOME</a></p></em>
+			</div>
+			<hr>
+			<p id="footer" class="col six"><em>&copy; Copyright Samuel Cousin 2014 </em></p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 13a449b49974e420bd9d709a1a7989aa -->

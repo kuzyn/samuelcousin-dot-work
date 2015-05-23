@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Book : "Fruits de Rêves", Samuel Cousin's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+		<link rel="shortcut icon" href="../public/images/favicon.ico">		
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col seven">
+				<a href="./" style="border-bottom:0"><img src="../public/images/150x150.jpg"></a>
+				<br>
+				<a href="./" style="font-size: large; border-bottom: 0;">Samuel Cousin</a>
+				<br>
+				<em>  
+  
+  
+  
+  
+  
+      <a href="./?/contact-cv/">Contact / CV</a>
+  
+</em>
+			</h1>
+			<hr>
+			<div id="content" class="col seven">
+				<div id="media">
+      	<div class="image">
+		<img src="./content/25.print/2.fruitsdereves/-20.top.jpg" alt="Book : "Fruits de Rêves"" width="480" height="322">
+    
+	</div>
+	<div class="image">
+		<img src="./content/25.print/2.fruitsdereves/-30.top.jpg" alt="Book : "Fruits de Rêves"" width="480" height="322">
+    
+	</div>
+	<div class="image">
+		<img src="./content/25.print/2.fruitsdereves/-40.top.jpg" alt="Book : "Fruits de Rêves"" width="480" height="322">
+    
+	</div>
+	<div class="image">
+		<img src="./content/25.print/2.fruitsdereves/-50.top.jpg" alt="Book : "Fruits de Rêves"" width="480" height="322">
+    
+	</div>
+	<div class="image">
+		<img src="./content/25.print/2.fruitsdereves/-100.top.jpg" alt="Book : "Fruits de Rêves"" width="480" height="672">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+				
+<ul class="project-list col seven">
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/print/failles/"><img src="./content/25.print/1.failles/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/print/failles/">Book : "Failles"</a></p>
+			<p><em>2013 - Spring</em></p>
+			<p><em class="background">&ndash; print, book, photo, cs6, design</em></p>
+		</div>
+	</li>
+	<li>
+		<div class="thumbnail col three">
+			<a href="./?/print/suspect-of-an-armed-roberry/"><img src="./content/25.print/0.suspect-of-an-armed-roberry/thumb.png" alt=""></a>
+		</div>
+		<div class="summary col two">
+			<p><a href="./?/print/suspect-of-an-armed-roberry/">Drawings: "Suspects of an armed robbery"</a></p>
+			<p><em>2012 - Autumn</em></p>
+			<p><em class="background">&ndash; studio, food, print, book, photo, cs6, design</em></p>
+		</div>
+	</li>
+
+</ul>
+			</div>
+			<div class="description col three">
+				<p><a href="./">Book : "Fruits de Rêves"</a></p>
+				<p><em>2013 - Spring</em></p>
+				<p><em class="background">studio, food, print, book, photo, cs6, design</em></p>
+				<p>Series of photographs produced in book form. 9" x 13", 19 pages.</p>
+
+<ul>
+<li><strong>Skills:</strong>
+Organize the photo shoot, set up the lights, scan the negatives for hi-resolution printing, print proofing, design &amp; layout</li>
+<li><strong>Tools:</strong>
+Studio lights (studio flashes, mandarines, flood, lightbox), Photoshop CS6, Bronica ETRSi, Nikon Coolscan, Canon Prograf, Sekonic L-758</li>
+</ul>
+
+				<br><br>
+				<em><p><a href="./">&uarr; HOME</a></p></em>
+			</div>
+			<hr>
+			<p id="footer" class="col six"><em>&copy; Copyright Samuel Cousin 2014 </em></p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 13a449b49974e420bd9d709a1a7989aa -->

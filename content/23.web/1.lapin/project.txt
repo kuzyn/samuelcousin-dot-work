@@ -1,0 +1,16 @@
+title: Web App: "Lapin"
+-
+date: 2012 - Autumn
+-
+content:
+Gigantic, scrollable and zoomable digital collage. Assembled from a hundred digital scans.
+
+-   <strong>Skills:</strong>
+Make the collage available online despite its size, develop a workflow able to deal with humongous files (30,000px*17,000px), find methods to assemble dozens of scanned images
+
+-   <strong>Tools:</strong>
+Portable scanner, Photoshop CS6, Google Map API, HTML, Javascript, ImageMagick, bash, ink, paper
+
+Can be viewed at <http://portfolio.samuelcousin.com/?/illustration/lapin/>
+-
+keywords: code, cs6, huge, web-page, html, js, high-res, aggregation, knowledge mapping

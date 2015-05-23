@@ -1,0 +1,17 @@
+title: Online Game: "SimProphet"
+-
+date: 2014 - Summer
+-
+content:
+SimProphet place you in the role of a prophet, sent to "illuminate" a shepherd and his herd. Using your wit and english, you need to convert him to your faith. This project is a [Lablablab][1] initiative.
+
+-   <strong>Skills:</strong>
+Elaborate and implement NLP strategies, game design, write dialogues, maintain properly versioned repositories, participate in on-line presence, sound design
+
+-   <strong>Tools:</strong>
+Unity 3D, Audacity, Audition CS6, Chatscript, JS, HTML, regex, Git
+
+More to see at <http://www.lablablab.net/games/sim-prophet/>
+[1]: http://www.lablablab.net/
+-
+keywords: religion, unity, 2d, sounds, game-design, code, nlp, ux, ui

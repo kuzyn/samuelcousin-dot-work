@@ -1,0 +1,16 @@
+title: Video "Honte Bamboo / Hyperpiscine"
+-
+date: 2013 - Spring
+-
+content:
+Stills from a demo for the Honte Bamboo music video
+
+-   <strong>Skills:</strong>
+Carry out an outdoor shoot, edit and sanitize the video
+
+-   <strong>Tools:</strong>
+Sony HVR, After Effect CS6, Adobe Premiere CS6
+
+More details at <http://portfolio.samuelcousin.com/?/video/hb/>
+-
+keywords: video, fun, animals, cs6, france 

@@ -1,0 +1,16 @@
+title: Web App: "■■■■■■■.ws / Retention"
+-
+date: 2014 - Spring
+-
+content:
+■■■■■■■.ws is a web app that makes is possible to show a year's worth of text messages, and easily navigate through them. It was build as a personal experiment, but the sources will likely make their way to Git.
+
+-   <strong>Skills:</strong>
+Responsive website, full-size and continuous navigation, fluid animation and transitions, manage and retrieve thousands of database/html objects, imagine a workflow to display so much data
+
+-   <strong>Tools:</strong>
+PHP, HTML5 & CSS3 transitions, MySQL, some hacking
+
+More details at <http://portfolio.samuelcousin.com/?/interaction/retention/>
+-
+keywords: website, code, js, html, php, css, ui, ux
